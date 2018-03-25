@@ -1,0 +1,1 @@
+clear; rm stockfeeder; go build; ./stockfeeder
